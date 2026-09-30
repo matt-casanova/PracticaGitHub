@@ -7,7 +7,7 @@ Integrantes:
   3. Sebastian Tapuna
   4. Matias Sanjines
 
-Buenas practias para un commit -m:
+Buenas practicas para un commit -m:
 
   Feat => features
   
