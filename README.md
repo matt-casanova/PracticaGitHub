@@ -6,3 +6,8 @@ Integrantes:
   2. Kendra Velasquez
   3. Sebastian Tapuna
   4. Matias Sanjines
+
+Buenas practias para un commit -m:
+  Feat => features
+  Ref => Refactor
+  Fix => Fix xd
