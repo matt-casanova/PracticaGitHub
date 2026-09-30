@@ -10,5 +10,7 @@ Integrantes:
 Buenas practias para un commit -m:
 
   Feat => features
+  
   Ref => Refactor
+  
   Fix => Fix xd
